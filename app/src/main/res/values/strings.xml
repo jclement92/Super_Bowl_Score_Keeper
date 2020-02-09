@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Super Bowl LIV Score Keeper</string>
+
+    <!-- Team name strings-->
+    <string name="team_a_string">San Francisco 49ers</string>
+    <string name="team_b_string">Kansas City Chiefs</string>
+
+    <!-- Points strings -->
+    <string name="score_string">0</string>
+    <string name="touchdown_string">Touchdown</string>
+    <string name="two_pt_conv_string">Two point conv.</string>
+    <string name="one_pt_conv_string">One point conv.</string>
+    <string name="safety_string">Safety</string>
+
+    <!-- Reset Button string -->
+    <string name="reset_string">Reset</string>
+</resources>
